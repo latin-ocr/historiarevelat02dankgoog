@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarevelat02dankgoog_0367.png"; bbox 0 0 3309 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1512 1741 1657 1813">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1512 1741 1657 1813">
+     <span class='ocr_line' id='line_1_1' title="bbox 1512 1741 1657 1813; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1512 1741 1657 1813; x_wconf 91' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 568 1947 2604 2359">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 568 1947 2604 2359">
+     <span class='ocr_line' id='line_1_2' title="bbox 1089 1947 2074 2079; baseline 0.004 -4"><span class='ocrx_word' id='word_1_2' title='bbox 1089 1947 2074 2079; x_wconf 78' lang='lat' dir='ltr'>HISTORIAS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 568 2226 2604 2359; baseline 0.001 -39"><span class='ocrx_word' id='word_1_3' title='bbox 568 2226 1810 2359; x_wconf 81' lang='lat' dir='ltr'>REVELATIONIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1902 2228 2604 2325; x_wconf 84' lang='lat' dir='ltr'><strong>DIVINAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 918 2470 2454 2571">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 918 2470 2454 2571">
+     <span class='ocr_line' id='line_1_4' title="bbox 918 2470 2454 2571; baseline 0.001 -26"><span class='ocrx_word' id='word_1_5' title='bbox 918 2470 1267 2571; x_wconf 88' lang='lat' dir='ltr'>VETERIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1320 2472 1419 2547; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1477 2471 1537 2545; x_wconf 90' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_8' title='bbox 1538 2470 1680 2547; x_wconf 88' lang='lat' dir='ltr'><strong>OVI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1741 2470 2261 2547; x_wconf 86' lang='lat' dir='ltr'>TESTAMENTI</span> <span class='ocrx_word' id='word_1_10' title='bbox 2449 2524 2454 2528; x_wconf 92' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1392 2698 1778 2757">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1392 2698 1778 2757">
+     <span class='ocr_line' id='line_1_5' title="bbox 1392 2698 1778 2757; baseline -0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 1392 2698 1778 2757; x_wconf 79' lang='lat' dir='ltr'><strong>AGOESSIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
